@@ -3,3 +3,5 @@ double kill...
 µÚ2´ÎÐÞ¸Ä
 
 this line is add from dev2 
+
+Creating a new branch is quick & simple.
